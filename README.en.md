@@ -18,6 +18,6 @@ A secure and intuitive local-based password management application.
 
 ## 🚀 Getting Started
 Please refer to the included guides for detailed instructions on building and running the program.
-* **Installation:** See `설치가이드.en.md` (or installation guides)
-* **Building:** See `빌드가이드.en.md`
-* **Protection & Packaging:** See `보호가이드.en.md`
+* **Installation:** See [INSTALL.en.md](INSTALL.en.md)
+* **Building:** See [BUILD.en.md](BUILD.en.md)
+* **Protection & Packaging:** See [SECURITY.en.md](SECURITY.en.md)
