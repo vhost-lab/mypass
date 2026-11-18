@@ -1,3 +1,11 @@
+<div align="right">
+  <a href="README.en.md">English</a> | 
+  <a href="README.ja.md">日本語</a> | 
+  <a href="README.zh.md">中文</a> | 
+  <b>한국어</b>
+</div>
+
+---
 🛡️ MyPass (패스워드 관리자)
 안전하고 직관적인 로컬 기반 패스워드 관리 프로그램입니다.
 
