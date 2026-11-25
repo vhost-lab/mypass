@@ -1,0 +1,12 @@
+# 개인 정보 (절대 올리지 마세요)
+data/
+*.mpbak
+*.csv
+settings.json
+
+# 빌드 산출물
+.venv/
+build/
+dist/
+*.spec
+__pycache__/
