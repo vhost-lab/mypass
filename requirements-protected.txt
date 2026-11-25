@@ -1,0 +1,10 @@
+# 마이패스(MyPass)를 Nuitka 로 "보호 빌드"할 때 필요한 패키지 목록입니다. (보호가이드.md 참고, 선택 사항)
+# build_protected.bat 를 쓰면 이 파일이 자동으로 설치되므로 따로 손댈 필요 없습니다.
+# 직접 설치하려면: .venv\Scripts\python.exe -m pip install -r requirements-protected.txt
+
+cryptography     # 비밀번호 금고 암호화(AES-256-GCM)
+uiautomation     # [채움]·브라우저 주소 자동 연동 (comtypes 를 자동으로 함께 설치함)
+certifi          # 업데이트 확인(https) 인증서 — exe로 묶었을 때도 인터넷 연결이 확실히 되도록 함
+nuitka           # 파이썬 코드를 C 로 바꿔 기계어로 컴파일하는 도구
+ordered-set      # Nuitka 가 내부적으로 씀
+zstandard        # Nuitka 가 내부적으로 씀
